@@ -18,13 +18,3 @@ public class GetFactorial{
     factorial();
     }
 }
-
-
-
-
-
-
-
-
-
-hw\eljb
